@@ -9,7 +9,6 @@
 - [Полная статья с иллюстрациями](article.md)
 - [Оформленная статья в Word](documents/article.docx)
 - [Обложка](assets/cover.png)
-- [Редакторские замечания](EDITORIAL_NOTES.md)
 
 ## Состав лаборатории
 
